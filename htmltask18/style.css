@@ -1,0 +1,32 @@
+body{
+background-image: url(images/galaxy.avif);
+background-repeat: no-repeat;
+background-size: cover;}
+.img1{    width: 300px;
+    height:100px}
+.h1{    color:lightblue;
+    display: inline;      }
+    .h2{        color:lightblue;
+        display: inline;
+        border-bottom: 3px solid white;}   
+    .btn{
+        display:block;
+        color: cadetblue;
+        padding-left: 20px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-right: 20px;
+        margin: auto;
+        margin-top: 20px;
+        font-size: 20px;       
+    }
+    .main1{
+        Display:Block;
+        margin: auto;
+        width:300px;        
+    }
+    .main{
+        Display:Block;
+        margin:auto;
+        width: 300px;
+    }

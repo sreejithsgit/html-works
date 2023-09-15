@@ -1,0 +1,84 @@
+header{
+    background-image: url(images/1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    display: block;}
+.t1{
+    font-size: 20px;
+    color: white;  
+    margin-left:350px;
+    padding-top:150px;
+    line-height: 5px;}
+.t2{
+    font-size: 50px;
+    margin-left:350px;
+    color: white;
+    line-height: 20px;
+    padding-top:100px;}
+.btn {
+    font-size: 20px;
+    color: white;
+    padding : 20px 60px 20px 60px;
+    background-color: rgb(216, 160, 76); 
+    margin-left:350px;}
+.divs1{
+    background-color:lightgrey;
+    background-size: cover;
+    display: flex;
+    padding-top:100px ;
+    padding-left:350px;
+    padding-bottom: 100px;}
+ .divsl {
+   padding-top:100px;}
+     
+.t3{
+    font-size: 60px;
+    line-height: 10px;}
+.p1{
+    color: black;
+    width:500px;
+    font-size:20px ;}
+.img2{
+    height:600px;
+    width:600px;
+    padding-left: 100px;}
+.divs2{
+    padding-top:50px ;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 50px;}
+.divs3{
+    display: flex;
+    justify-content: space-between;}
+.pic{
+        width:400px;}
+.pic1 {
+    height:400px;
+    width:400px;}
+ .pic2{
+    height:400px;
+    width:400px;}
+.pic3{
+    height:400px;
+    width:400px;} 
+footer{
+    padding-top:100px ;
+    padding-left: 350px;
+    padding-right: 350px;
+    background-image: url(images/6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    display: block;}
+.ftt{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding-top: 50px;}
+.t4{
+    font-size: 60px;
+    line-height: 10px;
+    color: white;}
+.ft{
+    width:400px;}
